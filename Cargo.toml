@@ -13,7 +13,7 @@ documentation = "https://docs.rs/Trard/unhygienic2"
 readme = "README.md"
 
 authors = ["Trard"]
-license = "MIT OR Apache-2.0"
+license = "MIT"
 
 [lib]
 proc-macro = true

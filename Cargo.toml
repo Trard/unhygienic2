@@ -1,7 +1,19 @@
 [package]
 name = "unhygienic2"
+description = "A dead simple macro to erase macro hygiene."
 version = "0.1.0"
 edition = "2021"
+
+categories = ["development-tools::procedural-macro-helpers"]
+keywords = ["macro", "unhygienic", "hygienic", "proc_macro"]
+
+repository = "https://github.com/Trard/unhygienic2"
+documentation = "https://docs.rs/Trard/unhygienic2"
+
+readme = "README.md"
+
+authors = ["Trard"]
+license = "MIT OR Apache-2.0"
 
 [lib]
 proc-macro = true
